@@ -7,9 +7,6 @@
 
  Estou cursando Análise e Desenvolvimento de Sistemas e construindo minha trajetória na área de Desenvolvimento de Software, sempre buscando transformar problemas em soluções e conhecimento em projetos.
 
-Linkedin : 
-[Emerson Barreto](https://www.linkedin.com/in/barreto-emerson)
-
 ---
 ### 🤖​ Linguaguens e Tecnologias
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,3 +20,9 @@ p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BARRETTO-EMERSON&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BARRETTO-EMERSON&layout=compact&theme=tokyonight" />
 </p>
+
+---
+### 📫 Vamos nos conectar?
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BARRETTO-EMERSON)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/barreto-emerson/)
