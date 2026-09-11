@@ -16,7 +16,7 @@
 
 ---
 ### 📊​ Estatisticas
-p align="left">
+<p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BARRETTO-EMERSON&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BARRETTO-EMERSON&layout=compact&theme=tokyonight" />
 </p>
