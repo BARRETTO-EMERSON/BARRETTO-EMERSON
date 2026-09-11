@@ -15,10 +15,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-### 📊​ Estatisticas
+### 📊 Estatísticas
+
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BARRETTO-EMERSON&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BARRETTO-EMERSON&layout=compact&theme=tokyonight" />
+  <img height="170" src="./profile/stats.svg" />
+  <img height="170" src="./profile/top-langs.svg" />
 </p>
 
 ---
